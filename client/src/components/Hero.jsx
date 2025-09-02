@@ -10,7 +10,7 @@ export default function Hero() {
           transition={{ duration: 0.7 }}
         >
           <h1 className="font-display text-4xl md:text-5xl text-charcoal leading-tight">
-            Find Your Balance at <span className="text-tealDeep">Aaradhya</span>
+            Discover Inner Peace at <span className="text-tealDeep">Aaradhya Yoga Center</span>
           </h1>
           <p className="mt-4 text-lg text-charcoal/80">
             Gentle flows, mindful breath, and a community that supports your wellbeing.
